@@ -1,0 +1,7 @@
+[package]
+name = "turn-table"
+version = "0.1.0"
+authors = ["eater <hello@eaterofco.de>"]
+
+[dependencies]
+bytes = "0.4.6"
